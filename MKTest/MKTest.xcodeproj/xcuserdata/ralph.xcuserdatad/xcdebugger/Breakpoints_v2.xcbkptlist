@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../MKNetworkKit/MKNetworkKit/Categories/NSData+MKBase64.m"
+            timestampString = "422481090.335506"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "mk_NewBase64Decode()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mk_NewBase64Decode(char const*, unsigned long, unsigned long*)"
+                  moduleName = "MKTest"
+                  urlString = "file:///Users/ralph/code/MKNetworkKit/MKNetworkKit/Categories/NSData+MKBase64.m"
+                  timestampString = "422481914.020904"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "62">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mk_NewBase64Decode"
+                  moduleName = "MKTestTests"
+                  urlString = "file:///Users/ralph/code/MKNetworkKit/MKNetworkKit/Categories/NSData+MKBase64.m"
+                  timestampString = "422481914.332011"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "62">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../MKNetworkKit/MKNetworkKit/Categories/NSData+MKBase64.m"
+            timestampString = "422481134.594207"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "130"
+            endingLineNumber = "130"
+            landmarkName = "mk_NewBase64Decode()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mk_NewBase64Decode(char const*, unsigned long, unsigned long*)"
+                  moduleName = "MKTest"
+                  urlString = "file:///Users/ralph/code/MKNetworkKit/MKNetworkKit/Categories/NSData+MKBase64.m"
+                  timestampString = "422481914.051171"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "131"
+                  endingLineNumber = "131"
+                  offsetFromSymbolStart = "400">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mk_NewBase64Decode"
+                  moduleName = "MKTestTests"
+                  urlString = "file:///Users/ralph/code/MKNetworkKit/MKNetworkKit/Categories/NSData+MKBase64.m"
+                  timestampString = "422481914.332191"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "131"
+                  endingLineNumber = "131"
+                  offsetFromSymbolStart = "400">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../MKNetworkKit/MKNetworkKit/Categories/NSData+MKBase64.m"
+            timestampString = "422481121.010297"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "134"
+            endingLineNumber = "134"
+            landmarkName = "mk_NewBase64Decode()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mk_NewBase64Decode(char const*, unsigned long, unsigned long*)"
+                  moduleName = "MKTest"
+                  urlString = "file:///Users/ralph/code/MKNetworkKit/MKNetworkKit/Categories/NSData+MKBase64.m"
+                  timestampString = "422481914.052726"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "135"
+                  endingLineNumber = "135"
+                  offsetFromSymbolStart = "421">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mk_NewBase64Decode"
+                  moduleName = "MKTestTests"
+                  urlString = "file:///Users/ralph/code/MKNetworkKit/MKNetworkKit/Categories/NSData+MKBase64.m"
+                  timestampString = "422481914.332325"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "135"
+                  endingLineNumber = "135"
+                  offsetFromSymbolStart = "421">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

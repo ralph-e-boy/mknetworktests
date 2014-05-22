@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Results</key>
+	<array>
+		<dict>
+			<key>Provider Name</key>
+			<string>MKTest</string>
+			<key>Testable Name</key>
+			<string>MKTestTests</string>
+			<key>Testable Tests</key>
+			<array>
+				<dict>
+					<key>Test Identifier</key>
+					<string>MKTestTests/testNSDataBase64CategoryWithString1</string>
+					<key>Test Name</key>
+					<string>testNSDataBase64CategoryWithString1</string>
+					<key>Test Result</key>
+					<string>Succeeded</string>
+				</dict>
+				<dict>
+					<key>Test Identifier</key>
+					<string>MKTestTests/testNSDataBase64CategoryWithString2</string>
+					<key>Test Result</key>
+					<string>Skipped</string>
+				</dict>
+			</array>
+		</dict>
+	</array>
+	<key>Version</key>
+	<string>1.0</string>
+</dict>
+</plist>

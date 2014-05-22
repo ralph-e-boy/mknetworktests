@@ -6,3 +6,12 @@
 #
 # Pods/
 
+
+#other
+
+DerivedData
+MKTest/DerivedData
+build/
+.DS_Store
+xcuserdata
+
